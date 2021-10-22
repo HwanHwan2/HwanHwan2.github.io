@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Search
+title: GitHub 일지
 nav_order: 7
 ---
 
