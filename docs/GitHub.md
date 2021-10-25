@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: GitHub 일지
 nav_order: 7
 ---
